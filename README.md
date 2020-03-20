@@ -1,5 +1,7 @@
 # [ParasutClient](https://github.com/demirhancosku/parasut-nodejs-client)
 
+[![npm version][npm-image]][npm-url]
+[![license][license-image]][license-url]
 
 ## What is the ParasutClient?
 
@@ -41,4 +43,8 @@ It is publicly open for any contribution. Bug-fixes, new features and extra modu
 
 ## To Support
 
+[npm-image]: https://img.shields.io/npm/v/parasut-client.svg?style=flat-square
+[npm-download-image]: https://img.shields.io/npm/dt/parasut-client.svg?style=flat-square
+[npm-url]: https://www.npmjs.com/package/parasut-client
+[license-image]: https://img.shields.io/npm/l/parasut-client.svg?style=flat-square
 [license-url]: https://github.com/demirhancosku/parasut-nodejs-client/blob/development/LICENSE

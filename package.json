@@ -1,5 +1,5 @@
 {
-  "name": "parasut-nodejs-client",
+  "name": "parasut-client",
   "version": "0.0.1",
   "description": "Parasut Client for NodeJS",
   "main": "index.js",
